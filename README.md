@@ -11,7 +11,8 @@
 7. On second cmd execute the batch file at client side .
 
 # Dependencies
-Java
-Json
+1. Java
+2. Json
+3. Gradle
 
 
